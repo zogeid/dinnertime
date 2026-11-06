@@ -4,49 +4,49 @@
       "id": "burger",
       "name": "Hamburguesa",
       "emoji": "🍔",
-      "ingredients": ["Pan", "Carne", "Queso"]
+      "ingredients": ["🍞 Pan", "🥩 Carne", "🧀 Queso"]
     },
     {
       "id": "pizza",
       "name": "Pizza",
       "emoji": "🍕",
-      "ingredients": ["Base pizza", "Tomate", "Queso"]
+      "ingredients": ["🍞 Base pizza", "🍅 Tomate", "🧀 Queso"]
     },
     {
       "id": "bolognese",
       "name": "Espaguetis boloñesa",
       "emoji": "🍝",
-      "ingredients": ["Pasta", "Carne picada", "Tomate frito"]
+      "ingredients": ["🍝 Pasta", "🥩 Carne picada", "🍅 Tomate frito"]
     },
     {
       "id": "fishchips",
       "name": "Fish & Chips",
       "emoji": "🐟",
-      "ingredients": ["Pescado", "Patatas"]
+      "ingredients": ["🐟 Pescado", "🥔 Patatas"]
     },
     {
       "id": "salmon",
       "name": "Salmón y brócoli",
-      "emoji": "🍣",
-      "ingredients": ["Salmón", "Brócoli"]
+      "emoji": "🐟",
+      "ingredients": ["🐟 Salmón", "🥦 Brócoli"]
     },
     {
       "id": "soup",
       "name": "Sopa",
       "emoji": "🍲",
-      "ingredients": ["Caldo", "Fideos"]
+      "ingredients": ["🍜 Fideos", "🥣 Caldo"]
     },
     {
       "id": "eggs",
       "name": "Huevos con patatas",
       "emoji": "🍳",
-      "ingredients": ["Huevos", "Patatas"]
+      "ingredients": ["🥚 Huevos", "🥔 Patatas"]
     },
     {
       "id": "chickenrice",
       "name": "Arroz con pollo",
       "emoji": "🍚",
-      "ingredients": ["Arroz", "Pollo"]
+      "ingredients": ["🍚 Arroz", "🍗 Pollo"]
     }
   ]
 }
