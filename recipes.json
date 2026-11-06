@@ -4,49 +4,117 @@
       "id": "burger",
       "name": "Hamburguesa",
       "emoji": "🍔",
-      "ingredients": ["🍞 Pan", "🥩 Carne", "🧀 Queso"]
+      "ingredients": [
+        "🍞 Pan",
+        "🥩 Carne",
+        "🧀 Queso"
+      ],
+      "steps": [
+        "Preparar ingredientes",
+        "Cocinar carne",
+        "Añadir queso",
+        "Montar hamburguesa"
+      ]
     },
     {
       "id": "pizza",
       "name": "Pizza",
       "emoji": "🍕",
-      "ingredients": ["🍞 Base pizza", "🍅 Tomate", "🧀 Queso"]
+      "ingredients": [
+        "🍞 Base pizza",
+        "🍅 Tomate",
+        "🧀 Queso"
+      ],
+      "steps": [
+        "Preparar base",
+        "Añadir tomate",
+        "Añadir queso",
+        "Hornear"
+      ]
     },
     {
       "id": "bolognese",
       "name": "Espaguetis boloñesa",
       "emoji": "🍝",
-      "ingredients": ["🍝 Pasta", "🥩 Carne picada", "🍅 Tomate frito"]
+      "ingredients": [
+        "🍝 Pasta",
+        "🥩 Carne picada",
+        "🍅 Tomate frito"
+      ],
+      "steps": [
+        "Cocer pasta",
+        "Cocinar carne",
+        "Añadir tomate",
+        "Mezclar"
+      ]
     },
     {
       "id": "fishchips",
       "name": "Fish & Chips",
       "emoji": "🐟",
-      "ingredients": ["🐟 Pescado", "🥔 Patatas"]
+      "ingredients": [
+        "🐟 Pescado",
+        "🥔 Patatas"
+      ],
+      "steps": [
+        "Preparar",
+        "Cocinar",
+        "Servir"
+      ]
     },
     {
       "id": "salmon",
       "name": "Salmón y brócoli",
       "emoji": "🐟",
-      "ingredients": ["🐟 Salmón", "🥦 Brócoli"]
+      "ingredients": [
+        "🐟 Salmón",
+        "🥦 Brócoli"
+      ],
+      "steps": [
+        "Preparar",
+        "Cocinar",
+        "Servir"
+      ]
     },
     {
       "id": "soup",
       "name": "Sopa",
       "emoji": "🍲",
-      "ingredients": ["🍜 Fideos", "🥣 Caldo"]
+      "ingredients": [
+        "🥣 Caldo",
+        "🍜 Fideos"
+      ],
+      "steps": [
+        "Calentar caldo",
+        "Añadir fideos"
+      ]
     },
     {
       "id": "eggs",
       "name": "Huevos con patatas",
       "emoji": "🍳",
-      "ingredients": ["🥚 Huevos", "🥔 Patatas"]
+      "ingredients": [
+        "🥚 Huevos",
+        "🥔 Patatas"
+      ],
+      "steps": [
+        "Cocinar patatas",
+        "Cocinar huevos"
+      ]
     },
     {
       "id": "chickenrice",
       "name": "Arroz con pollo",
       "emoji": "🍚",
-      "ingredients": ["🍚 Arroz", "🍗 Pollo"]
+      "ingredients": [
+        "🍚 Arroz",
+        "🍗 Pollo"
+      ],
+      "steps": [
+        "Cocinar pollo",
+        "Cocer arroz",
+        "Mezclar"
+      ]
     }
   ]
 }
