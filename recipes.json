@@ -23,7 +23,10 @@
       "ingredients": [
         "🍞 Base pizza",
         "🍅 Tomate",
-        "🧀 Queso"
+        "🧀 Queso",
+		" Ham",
+		" Chorizo",
+		" Salchicha",
       ],
       "steps": [
         "Preparar base",
@@ -34,12 +37,13 @@
     },
     {
       "id": "bolognese",
-      "name": "Espaguetis boloñesa",
+      "name": "Bolognese",
       "emoji": "🍝",
       "ingredients": [
         "🍝 Pasta",
         "🥩 Carne picada",
-        "🍅 Tomate frito"
+        "🍅 Pasata",
+		"🧀 Queso",
       ],
       "steps": [
         "Cocer pasta",
@@ -77,8 +81,8 @@
       ]
     },
     {
-      "id": "soup",
-      "name": "Sopa",
+      "id": "chickenSoup",
+      "name": "Sopa de pollo",
       "emoji": "🍲",
       "ingredients": [
         "🥣 Caldo",
@@ -90,7 +94,7 @@
       ]
     },
     {
-      "id": "eggs",
+      "id": "eggsFries",
       "name": "Huevos con patatas",
       "emoji": "🍳",
       "ingredients": [
@@ -103,12 +107,29 @@
       ]
     },
     {
-      "id": "chickenrice",
+      "id": "chickenRice",
       "name": "Arroz con pollo",
       "emoji": "🍚",
       "ingredients": [
         "🍚 Arroz",
         "🍗 Pollo"
+      ],
+      "steps": [
+        "Cocinar pollo",
+        "Cocer arroz",
+        "Mezclar"
+      ]
+    },
+    {
+      "id": "chickenPopotatoes",
+      "name": "Arroz con pollo",
+      "emoji": "🍚",
+      "ingredients": [
+        "🥔 Patatas",
+        "🍗 Pollo",
+		"🍅 Pasata",
+		" Onion",
+		" Garlic"
       ],
       "steps": [
         "Cocinar pollo",
